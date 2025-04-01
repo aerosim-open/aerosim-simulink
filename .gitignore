@@ -1,0 +1,6 @@
+# Simulink generated files
+slprj
+*.slxc
+
+# Log files
+*.log
